@@ -2,7 +2,7 @@
     border: 2px solid pink;
     padding: 20px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-start;
 
 }
@@ -10,4 +10,8 @@
 .link {
     background-color: yellow;
     outline: 1px solid black;
+}
+
+#aaa {
+    margin: 0 15px ;
 }
